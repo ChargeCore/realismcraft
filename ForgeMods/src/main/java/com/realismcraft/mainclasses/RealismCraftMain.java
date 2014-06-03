@@ -144,6 +144,7 @@ public class RealismCraftMain
     	registerTools();
     	registerPlates();
     	
+    	GameRegistry.registerTileEntity(TileEntityAnvil.class, "anvil");
     	
     	//Battery Empty
     	BatteryEmpty = new BatteryEmpty().setTextureName(MODID + ":" + "batteryEmpty");
