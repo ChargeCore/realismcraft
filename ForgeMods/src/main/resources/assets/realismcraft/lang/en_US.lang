@@ -1,0 +1,20 @@
+item.chainIngot.name=Chain Ingot 
+item.batteryEmpty.name=Battery (0 Cap)
+item.Battery1.name=Battery (10 Cap)
+item.Battery2.name=Battery (100 Cap)
+item.Battery3.name=Battery (1000 Cap)
+item.tinIngot.name=Tin Ingot
+item.aluminiumIngot.name=Aluminium Ingot
+item.magnesiumIngot.name=Magnesium Ingot
+item.bronzeIngot.name=Bronze Ingot
+item.leadIngot.name=Lead Ingot
+item.zincIngot.name=Zinc Ingot
+item.chainIngot.name=Chain Mail Pieces
+item.chainPlate.name=Chain Mail Plate
+
+tile.BronzeBlock.name=Bronze Block
+tile.TinOre.name=Tin Ore
+tile.LeadOre.name=Lead Ore
+
+itemGroup.RealismCraftBlocks=RealismCraftBlocks
+itemGroup.RealismCraftItems=RealismCraftItems
