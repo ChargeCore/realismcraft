@@ -45,6 +45,7 @@ public class RealismCraftMain
     public static Item aluminiumHoe;
     public static Item aluminiumSword;
     public static Item aluminiumShovel;
+    public static Item alm;
     
     //Bronze Tools
     public static Item bronzeAxe;
