@@ -14,7 +14,7 @@ public class ElectricityHandler {
 		}else if(batNum == 0){
 			elecCapac = 0;
 		}
-		
+		//
 		
 	}
 
