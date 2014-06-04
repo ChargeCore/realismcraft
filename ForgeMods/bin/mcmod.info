@@ -1,0 +1,18 @@
+[
+{
+  "modid": "RealismCraft",
+  "name": "Realism Craft",
+  "description": "Adds a lot of items into Minecraft.",
+  "version": "Alpha 1.0",
+  "mcversion": "1.7.2",
+  "url": "",
+  "updateUrl": "",
+  "authors": "Ben Dew, Edd Brown",
+  "credits": "Us making the mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [
+	"mod_MinecraftForge"
+]
+}
+]

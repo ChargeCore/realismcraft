@@ -1,6 +1,7 @@
 package com.realismcraft.RadioactivityAPI;
 
 public class Radioactivity {
+
 	
 	public static float setIntensity(float x){
 		float Intensity = x;
@@ -20,4 +21,5 @@ public class Radioactivity {
 		setRange(Range);
 		setHalfLife(halfLife);
 	}
+
 }

@@ -12,6 +12,9 @@ public class BronzeBlock extends Block{
 		setCreativeTab(RealismCraftMain.CreativeTabBlocks);
 		setHardness(5F);
 		setResistance(7.0F);
+
+		setBlockName("bronzeBlock");
+
 		setBlockTextureName(RealismCraftMain.MODID + ":" + "bronzeBlock");
 	}
 

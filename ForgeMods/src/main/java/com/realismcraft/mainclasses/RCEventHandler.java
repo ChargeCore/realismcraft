@@ -6,6 +6,7 @@ import net.minecraft.item.ItemStack;
 import net.minecraftforge.event.world.BlockEvent.HarvestDropsEvent;
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 
+
 public class RCEventHandler {
 
 	@SubscribeEvent
@@ -17,9 +18,9 @@ public class RCEventHandler {
 	
 		}
 	}
-
-	
 }
+	
+
 	
 	//@SubscribeEvent
 	//public void onBreakSpeed(BreakSpeed event){
@@ -27,3 +28,4 @@ public class RCEventHandler {
 	
 	
 //}
+
