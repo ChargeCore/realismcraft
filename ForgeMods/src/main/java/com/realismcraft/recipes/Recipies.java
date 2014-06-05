@@ -3,6 +3,7 @@ package com.realismcraft.recipes;
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
 import net.minecraft.item.ItemStack;
+import com.realismcraft.mainclasses.*;
 
 import com.realismcraft.mainclasses.RealismCraftMain;
 
@@ -20,7 +21,6 @@ public class Recipies {
 		GameRegistry.addShapedRecipe(new ItemStack(Items.chainmail_boots), "   ", "X X", "X X", 'X', RealismCraftMain.chainIngot);
 		GameRegistry.addShapedRecipe(new ItemStack(RealismCraftMain.chainIngot), "X X", " X ", "X X", 'X', Items.iron_ingot);
 		GameRegistry.addShapedRecipe(new ItemStack(RealismCraftMain.BatteryEmpty), " X ", "XYX", "XYX", 'X', RealismCraftMain.tinIngot, 'Y', Items.redstone);
-
 		GameRegistry.addShapedRecipe(new ItemStack(RealismCraftMain.aluminiumBlock), "XXX", "XXX", "XXX", 'X', RealismCraftMain.aluminiumIngot);
 		GameRegistry.addShapedRecipe(new ItemStack(RealismCraftMain.bronzeBlock), "XXX", "XXX", "XXX", 'X', RealismCraftMain.bronzeIngot);
 		GameRegistry.addShapedRecipe(new ItemStack(RealismCraftMain.copperBlock), "XXX", "XXX", "XXX", 'X', RealismCraftMain.copperIngot);
