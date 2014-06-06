@@ -5,6 +5,7 @@ package com.realismcraft.mainclasses;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.init.Blocks;
 import net.minecraft.item.Item;
 import net.minecraft.item.Item.ToolMaterial;
 import net.minecraftforge.common.MinecraftForge;
@@ -45,7 +46,6 @@ public class RealismCraftMain
     public static Item aluminiumHoe;
     public static Item aluminiumSword;
     public static Item aluminiumShovel;
-    public static Item alm;
     
     //Bronze Tools
     public static Item bronzeAxe;
@@ -245,6 +245,7 @@ public class RealismCraftMain
     	bronzeMaterial = EnumHelper.addToolMaterial("bronzeMaterial", 2, 10, 4.0F, 10.0F, 1);
     	zincMaterial = EnumHelper.addToolMaterial("zincMaterial", 2, 10, 10.0F, 10.0F, 1);
     	tinMaterial = EnumHelper.addToolMaterial("tinMaterial", 2, 10, 25.0F, 10.0F, 1);
+    	tinMaterial = EnumHelper.addToolMaterial("tinMaterial", 2, 10, 25.0F, 10.0F, 1);
     	
     	//Aluminium Tools
     	aluminiumAxe = new AluminiumAxe(aluminiumMaterial);
@@ -329,5 +330,7 @@ public class RealismCraftMain
     public void init(FMLInitializationEvent event)
     {
     	Recipies.loadRecipies();
+    	Blocks.log.setHarvestLevel("axe", 1);
+    	Blocks.log2.setHarvestLevel("axe", 1);
     }
 }
