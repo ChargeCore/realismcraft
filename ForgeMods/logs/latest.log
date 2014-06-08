@@ -1,25 +1,25 @@
-[17:31:55] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
-[17:31:55] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
-[17:31:55] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
-[17:31:55] [main/INFO]: Forge Mod Loader version 7.2.172.1073 for Minecraft 1.7.2 loading
-[17:31:55] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_05, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jre8
-[17:31:55] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
-[17:31:55] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:31:55] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[17:31:55] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:31:55] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:31:55] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:31:55] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
-[17:31:56] [main/ERROR]: The minecraft jar file:/C:/Users/Ben/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.2-10.12.1.1073/forgeBin-1.7.2-10.12.1.1073.jar!/net/minecraft/client/ClientBrandRetriever.class appears to be corrupt! There has been CRITICAL TAMPERING WITH MINECRAFT, it is highly unlikely minecraft will work! STOP NOW, get a clean copy and try again!
-[17:31:56] [main/ERROR]: FML has been ordered to ignore the invalid or missing minecraft certificate. This is very likely to cause a problem!
-[17:31:56] [main/ERROR]: Technical information: ClientBrandRetriever was at jar:file:/C:/Users/Ben/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.2-10.12.1.1073/forgeBin-1.7.2-10.12.1.1073.jar!/net/minecraft/client/ClientBrandRetriever.class, there were 0 certificates for it
-[17:31:56] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
-[17:31:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:31:56] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[17:31:57] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[17:31:58] [main/INFO]: Setting user: Player312
-[17:32:00] [Client thread/INFO]: LWJGL Version: 2.9.0
-[17:32:00] [Client thread/ERROR]: Couldn't set icon
+[15:54:04] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:54:04] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:54:04] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[15:54:04] [main/INFO]: Forge Mod Loader version 7.2.172.1073 for Minecraft 1.7.2 loading
+[15:54:04] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_05, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jre8
+[15:54:04] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[15:54:04] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:54:04] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[15:54:04] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:54:04] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:54:04] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:54:04] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[15:54:05] [main/ERROR]: The minecraft jar file:/C:/Users/Ben/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.2-10.12.1.1073/forgeBin-1.7.2-10.12.1.1073.jar!/net/minecraft/client/ClientBrandRetriever.class appears to be corrupt! There has been CRITICAL TAMPERING WITH MINECRAFT, it is highly unlikely minecraft will work! STOP NOW, get a clean copy and try again!
+[15:54:05] [main/ERROR]: FML has been ordered to ignore the invalid or missing minecraft certificate. This is very likely to cause a problem!
+[15:54:05] [main/ERROR]: Technical information: ClientBrandRetriever was at jar:file:/C:/Users/Ben/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.2-10.12.1.1073/forgeBin-1.7.2-10.12.1.1073.jar!/net/minecraft/client/ClientBrandRetriever.class, there were 0 certificates for it
+[15:54:05] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[15:54:05] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:54:05] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[15:54:06] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[15:54:07] [main/INFO]: Setting user: Player231
+[15:54:09] [Client thread/INFO]: LWJGL Version: 2.9.0
+[15:54:09] [Client thread/ERROR]: Couldn't set icon
 javax.imageio.IIOException: Can't read input file!
 	at javax.imageio.ImageIO.read(Unknown Source) ~[?:1.8.0_05]
 	at net.minecraft.client.Minecraft.readImage(Minecraft.java:583) ~[Minecraft.class:?]
@@ -32,488 +32,311 @@ javax.imageio.IIOException: Can't read input file!
 	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_05]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:134) [launchwrapper-1.9.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.9.jar:?]
-[17:32:00] [Client thread/INFO]: Attempting early MinecraftForge initialization
-[17:32:00] [Client thread/INFO]: MinecraftForge v10.12.1.1073 Initialized
-[17:32:00] [Client thread/INFO]: Replaced 141 ore recipies
-[17:32:00] [Client thread/INFO]: Completed early MinecraftForge initialization
-[17:32:01] [Client thread/INFO]: Searching C:\Users\Ben\git\Repos\ForgeMods\mods for mods
-[17:32:01] [Client thread/INFO]: Mod realismcraft is missing the required element 'name'. Substituting realismcraft
-[17:32:02] [Client thread/ERROR]: FML has detected a mod that is using a package name based on 'net.minecraft.src' : net.minecraft.src.FMLRenderAccessLibrary. This is generally a severe programming error.  There should be no mod code in the minecraft namespace. MOVE YOUR MOD! If you're in eclipse, select your source code and 'refactor' it into a new package. Go on. DO IT NOW!
-[17:32:02] [Client thread/ERROR]: FML has detected a mod that is using a package name based on 'net.minecraft.src' : net.minecraft.src.Start. This is generally a severe programming error.  There should be no mod code in the minecraft namespace. MOVE YOUR MOD! If you're in eclipse, select your source code and 'refactor' it into a new package. Go on. DO IT NOW!
-[17:32:05] [Client thread/INFO]: Forge Mod Loader has identified 4 mods to load
-[17:32:05] [Client thread/INFO]: Configured a dormant chunk cache size of 0
-[17:32:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:realismcraft
-[17:32:06] [Sound Library Loader/INFO]: Sound engine started
-[17:32:07] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[17:32:07] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[17:32:07] [Client thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
-[17:32:07] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:realismcraft
-[17:32:08] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[17:32:08] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[17:32:09] [Sound Library Loader/INFO]: Sound engine started
-[17:32:10] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
-[17:32:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[17:32:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[17:32:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[17:32:25] [Server thread/INFO]: Starting integrated minecraft server version 1.7.2
-[17:32:25] [Server thread/INFO]: Generating keypair
-[17:32:25] [Server thread/INFO]: Injecting existing block and item data into this server instance
-[17:32:25] [Server thread/INFO]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@1026e045)
-[17:32:25] [Server thread/INFO]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@1026e045)
-[17:32:25] [Server thread/INFO]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@1026e045)
-[17:32:25] [Server thread/INFO]: Preparing start region for level 0
-[17:32:26] [Server thread/INFO]: Preparing spawn area: 50%
-[17:32:28] [Netty Client IO #0/INFO]: Server protocol version 1
-[17:32:28] [Netty IO #1/INFO]: Client protocol version 1
-[17:32:28] [Netty IO #1/INFO]: Client attempting to join with 4 mods : realismcraft@Alpha 1.0,FML@7.2.172.1073,Forge@10.12.1.1073,mcp@9.03
-[17:32:28] [Netty IO #1/INFO]: Attempting connection with missing mods [] at CLIENT
-[17:32:28] [Netty Client IO #0/INFO]: Attempting connection with missing mods [] at SERVER
-[17:32:28] [Server thread/INFO]: [Server thread] Server side modded connection established
-[17:32:28] [Server thread/INFO]: Player312[local:E:d6a358a0] logged in with entity id 330 at (-213.40486328583157, 80.0, 105.1017010187422)
-[17:32:28] [Client thread/INFO]: [Client thread] Client side modded connection established
-[17:32:28] [Server thread/INFO]: Player312 joined the game
-[17:32:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:32:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:32:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:32:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:32:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:32:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:32:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.hurt.fall.small
-[17:32:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:32:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.hurt
-[17:32:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.hurt.fall.small
-[17:32:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.hurt
-[17:32:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.game
-[17:32:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:32:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
-[17:32:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:32:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:32:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:32:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:32:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:32:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:32:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:32:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:32:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:32:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:32:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:32:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[17:32:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:32:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:32:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:32:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:32:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:32:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:32:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:32:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:32:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:32:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
-[17:32:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:32:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:32:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:33:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:33:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:33:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:33:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:33:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:33:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:33:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:33:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:33:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:33:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:33:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:33:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:33:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:33:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:33:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:33:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:33:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:33:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:33:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:33:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:33:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:33:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:33:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:33:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:33:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:33:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:33:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:33:06] [Server thread/INFO]: Saving and pausing game...
-[17:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:33:07] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:33:07] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[17:33:08] [Client thread/INFO]: Stopping!
-[17:33:08] [Server thread/INFO]: Stopping server
-[17:33:08] [Server thread/INFO]: Saving players
-[17:33:08] [Server thread/INFO]: Saving worlds
-[17:33:08] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:33:08] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:33:08] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[17:33:08] [Client Shutdown Thread/INFO]: Stopping server
-[17:33:08] [Client Shutdown Thread/INFO]: Saving players
-[17:33:52] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
-[17:33:52] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
-[17:33:52] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
-[17:33:53] [main/INFO]: Forge Mod Loader version 7.2.172.1073 for Minecraft 1.7.2 loading
-[17:33:53] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_05, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jre8
-[17:33:53] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
-[17:33:53] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:33:53] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[17:33:53] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:33:53] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:33:53] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:33:53] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
-[17:33:54] [main/ERROR]: The minecraft jar file:/C:/Users/Ben/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.2-10.12.1.1073/forgeBin-1.7.2-10.12.1.1073.jar!/net/minecraft/client/ClientBrandRetriever.class appears to be corrupt! There has been CRITICAL TAMPERING WITH MINECRAFT, it is highly unlikely minecraft will work! STOP NOW, get a clean copy and try again!
-[17:33:54] [main/ERROR]: FML has been ordered to ignore the invalid or missing minecraft certificate. This is very likely to cause a problem!
-[17:33:54] [main/ERROR]: Technical information: ClientBrandRetriever was at jar:file:/C:/Users/Ben/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.2-10.12.1.1073/forgeBin-1.7.2-10.12.1.1073.jar!/net/minecraft/client/ClientBrandRetriever.class, there were 0 certificates for it
-[17:33:54] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
-[17:33:54] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:33:54] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[17:33:54] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[17:33:56] [main/INFO]: Setting user: Player62
-[17:33:58] [Client thread/INFO]: LWJGL Version: 2.9.0
-[17:33:58] [Client thread/ERROR]: Couldn't set icon
-javax.imageio.IIOException: Can't read input file!
-	at javax.imageio.ImageIO.read(Unknown Source) ~[?:1.8.0_05]
-	at net.minecraft.client.Minecraft.readImage(Minecraft.java:583) ~[Minecraft.class:?]
-	at net.minecraft.client.Minecraft.startGame(Minecraft.java:415) [Minecraft.class:?]
-	at net.minecraft.client.Minecraft.run(Minecraft.java:815) [Minecraft.class:?]
-	at net.minecraft.client.main.Main.main(SourceFile:103) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_05]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_05]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_05]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_05]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:134) [launchwrapper-1.9.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.9.jar:?]
-[17:33:58] [Client thread/INFO]: Attempting early MinecraftForge initialization
-[17:33:58] [Client thread/INFO]: MinecraftForge v10.12.1.1073 Initialized
-[17:33:58] [Client thread/INFO]: Replaced 141 ore recipies
-[17:33:58] [Client thread/INFO]: Completed early MinecraftForge initialization
-[17:33:59] [Client thread/INFO]: Searching C:\Users\Ben\git\Repos\ForgeMods\mods for mods
-[17:33:59] [Client thread/INFO]: Mod realismcraft is missing the required element 'name'. Substituting realismcraft
-[17:34:00] [Client thread/ERROR]: FML has detected a mod that is using a package name based on 'net.minecraft.src' : net.minecraft.src.FMLRenderAccessLibrary. This is generally a severe programming error.  There should be no mod code in the minecraft namespace. MOVE YOUR MOD! If you're in eclipse, select your source code and 'refactor' it into a new package. Go on. DO IT NOW!
-[17:34:00] [Client thread/ERROR]: FML has detected a mod that is using a package name based on 'net.minecraft.src' : net.minecraft.src.Start. This is generally a severe programming error.  There should be no mod code in the minecraft namespace. MOVE YOUR MOD! If you're in eclipse, select your source code and 'refactor' it into a new package. Go on. DO IT NOW!
-[17:34:03] [Client thread/INFO]: Forge Mod Loader has identified 4 mods to load
-[17:34:03] [Client thread/INFO]: Configured a dormant chunk cache size of 0
-[17:34:03] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:realismcraft
-[17:34:04] [Sound Library Loader/INFO]: Sound engine started
-[17:34:05] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[17:34:05] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[17:34:05] [Client thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
-[17:34:05] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:realismcraft
-[17:34:05] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[17:34:06] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[17:34:07] [Sound Library Loader/INFO]: Sound engine started
-[17:34:07] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
-[17:34:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[17:34:10] [Server thread/INFO]: Starting integrated minecraft server version 1.7.2
-[17:34:10] [Server thread/INFO]: Generating keypair
-[17:34:10] [Server thread/INFO]: Injecting existing block and item data into this server instance
-[17:34:10] [Server thread/INFO]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@1c3b52e2)
-[17:34:10] [Server thread/INFO]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@1c3b52e2)
-[17:34:10] [Server thread/INFO]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@1c3b52e2)
-[17:34:10] [Server thread/INFO]: Preparing start region for level 0
-[17:34:11] [Server thread/INFO]: Preparing spawn area: 39%
-[17:34:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[17:34:13] [Netty Client IO #0/INFO]: Server protocol version 1
-[17:34:13] [Netty IO #1/INFO]: Client protocol version 1
-[17:34:13] [Netty IO #1/INFO]: Client attempting to join with 4 mods : realismcraft@Alpha 1.0,FML@7.2.172.1073,Forge@10.12.1.1073,mcp@9.03
-[17:34:13] [Netty IO #1/INFO]: Attempting connection with missing mods [] at CLIENT
-[17:34:13] [Netty Client IO #0/INFO]: Attempting connection with missing mods [] at SERVER
-[17:34:13] [Server thread/INFO]: [Server thread] Server side modded connection established
-[17:34:13] [Server thread/INFO]: Player62[local:E:3aa5fb3d] logged in with entity id 328 at (-222.57039867414935, 73.0, 109.81616743805813)
-[17:34:13] [Client thread/INFO]: [Client thread] Client side modded connection established
-[17:34:13] [Server thread/INFO]: Player62 joined the game
-[17:34:13] [Server thread/INFO]: Saving and pausing game...
-[17:34:13] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:34:14] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:34:14] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[17:34:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:34:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.game
-[17:34:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:34:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:34:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:34:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:34:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:34:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:34:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:34:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:34:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:34:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:34:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:34:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:34:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:34:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:34:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:34:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[17:34:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:34:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
-[17:34:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:34:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:34:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[17:34:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[17:34:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:34:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:34:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:34:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[17:34:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
-[17:34:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:34:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:34:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[17:34:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:34:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:34:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:34:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:34:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:34:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:34:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:34:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:34:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[17:34:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[17:34:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[17:34:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[17:34:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[17:34:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[17:34:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[17:34:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[17:34:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[17:34:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[17:34:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[17:34:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:34:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
-[17:34:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[17:34:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[17:34:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[17:34:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[17:34:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[17:34:57] [Server thread/INFO]: [Player62: Set own game mode to Creative Mode]
-[17:34:57] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[17:35:09] [Server thread/INFO]: [Player62: Set own game mode to Survival Mode]
-[17:35:09] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[17:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:liquid.water
-[17:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:liquid.water
-[17:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:35:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:35:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:liquid.water
-[17:35:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:35:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:35:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:35:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
-[17:35:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:35:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:liquid.water
-[17:35:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:35:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:35:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:35:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:35:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:35:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[17:35:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
-[17:35:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[17:35:40] [Server thread/INFO]: Saving and pausing game...
-[17:35:40] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:35:40] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:35:40] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[17:35:41] [Client thread/INFO]: Stopping!
-[17:35:41] [Server thread/INFO]: Stopping server
-[17:35:41] [Server thread/INFO]: Saving players
-[17:35:41] [Server thread/INFO]: Saving worlds
-[17:35:41] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:35:41] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:35:41] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[17:35:41] [Client Shutdown Thread/INFO]: Stopping server
-[17:35:41] [Client Shutdown Thread/INFO]: Saving players
+[15:54:09] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[15:54:09] [Client thread/INFO]: MinecraftForge v10.12.1.1073 Initialized
+[15:54:09] [Client thread/INFO]: Replaced 141 ore recipies
+[15:54:09] [Client thread/INFO]: Completed early MinecraftForge initialization
+[15:54:09] [Client thread/INFO]: Searching C:\Users\Ben\git\Repos\ForgeMods\mods for mods
+[15:54:10] [Client thread/INFO]: Mod realismcraft is missing the required element 'name'. Substituting realismcraft
+[15:54:11] [Client thread/ERROR]: FML has detected a mod that is using a package name based on 'net.minecraft.src' : net.minecraft.src.FMLRenderAccessLibrary. This is generally a severe programming error.  There should be no mod code in the minecraft namespace. MOVE YOUR MOD! If you're in eclipse, select your source code and 'refactor' it into a new package. Go on. DO IT NOW!
+[15:54:11] [Client thread/ERROR]: FML has detected a mod that is using a package name based on 'net.minecraft.src' : net.minecraft.src.Start. This is generally a severe programming error.  There should be no mod code in the minecraft namespace. MOVE YOUR MOD! If you're in eclipse, select your source code and 'refactor' it into a new package. Go on. DO IT NOW!
+[15:54:13] [Client thread/INFO]: Forge Mod Loader has identified 4 mods to load
+[15:54:14] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[15:54:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:realismcraft
+[15:54:15] [Sound Library Loader/INFO]: Sound engine started
+[15:54:15] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:54:16] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:54:16] [Client thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
+[15:54:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:realismcraft
+[15:54:16] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:54:16] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:54:17] [Sound Library Loader/INFO]: Sound engine started
+[15:54:18] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
+[15:54:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[15:54:21] [Server thread/INFO]: Starting integrated minecraft server version 1.7.2
+[15:54:21] [Server thread/INFO]: Generating keypair
+[15:54:21] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[15:54:21] [Server thread/INFO]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@6c61a1a6)
+[15:54:21] [Server thread/INFO]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@6c61a1a6)
+[15:54:21] [Server thread/INFO]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@6c61a1a6)
+[15:54:21] [Server thread/INFO]: Preparing start region for level 0
+[15:54:22] [Server thread/INFO]: Preparing spawn area: 45%
+[15:54:24] [Netty Client IO #0/INFO]: Server protocol version 1
+[15:54:24] [Netty IO #1/INFO]: Client protocol version 1
+[15:54:24] [Netty IO #1/INFO]: Client attempting to join with 4 mods : realismcraft@Alpha 1.0,FML@7.2.172.1073,Forge@10.12.1.1073,mcp@9.03
+[15:54:24] [Netty IO #1/INFO]: Attempting connection with missing mods [] at CLIENT
+[15:54:24] [Netty Client IO #0/INFO]: Attempting connection with missing mods [] at SERVER
+[15:54:24] [Server thread/INFO]: [Server thread] Server side modded connection established
+[15:54:24] [Server thread/INFO]: Player231[local:E:5c3c296b] logged in with entity id 325 at (-194.36919098960377, 99.0, 115.30274092354898)
+[15:54:24] [Client thread/INFO]: [Client thread] Client side modded connection established
+[15:54:24] [Server thread/INFO]: Player231 joined the game
+[15:54:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.game
+[15:54:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:54:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:54:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:54:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:54:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:54:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:54:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[15:54:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:54:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:54:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:54:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:54:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:54:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:54:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:54:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:54:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[15:54:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:54:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:54:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:54:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:54:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:54:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:54:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[15:54:34] [Server thread/INFO]: Saving and pausing game...
+[15:54:34] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:54:34] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:54:34] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:55:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[15:55:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:55:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:55:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[15:55:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:55:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:55:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[15:55:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:55:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[15:55:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:55:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:55:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:55:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:liquid.water
+[15:55:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:liquid.water
+[15:55:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:55:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[15:55:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:55:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:55:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:55:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:55:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:55:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:55:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:55:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:55:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[15:55:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:55:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:55:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:55:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:55:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:55:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:55:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:55:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:55:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:55:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:55:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[15:55:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[15:55:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:55:37] [Server thread/INFO]: Saving and pausing game...
+[15:55:37] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:55:37] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:55:37] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:55:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[15:55:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:56:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:56:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:56:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[15:56:05] [Server thread/INFO]: Saving and pausing game...
+[15:56:05] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:56:05] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:56:05] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:56:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:56:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:56:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:56:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:56:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:56:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:56:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:56:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:56:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:56:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:56:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:56:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:56:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[15:56:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[15:56:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:56:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[15:56:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[15:56:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.snow
+[15:56:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:liquid.water
+[15:56:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.snow
+[15:56:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:liquid.water
+[15:56:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.snow
+[15:56:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.snow
+[15:56:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.snow
+[15:56:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.snow
+[15:56:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.snow
+[15:56:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.snow
+[15:56:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.snow
+[15:56:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.snow
+[15:56:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.snow
+[15:56:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.snow
+[15:56:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.snow
+[15:56:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.snow
+[15:56:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.snow
+[15:56:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.snow
+[15:56:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.snow
+[15:56:31] [Server thread/INFO]: Saving and pausing game...
+[15:56:31] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:56:31] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:56:31] [Server thread/INFO]: Saving chunks for level 'New World'/The End

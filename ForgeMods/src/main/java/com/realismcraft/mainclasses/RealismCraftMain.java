@@ -245,7 +245,7 @@ public class RealismCraftMain
     	bronzeMaterial = EnumHelper.addToolMaterial("bronzeMaterial", 2, 10, 4.0F, 10.0F, 1);
     	zincMaterial = EnumHelper.addToolMaterial("zincMaterial", 2, 10, 10.0F, 10.0F, 1);
     	tinMaterial = EnumHelper.addToolMaterial("tinMaterial", 2, 10, 25.0F, 10.0F, 1);
-    	tinMaterial = EnumHelper.addToolMaterial("tinMaterial", 2, 10, 25.0F, 10.0F, 1);
+    	
     	
     	//Aluminium Tools
     	aluminiumAxe = new AluminiumAxe(aluminiumMaterial);
